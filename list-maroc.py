@@ -58,7 +58,7 @@ while True :
         if c != d and len(d) >= 6:
             file.write(d)
             file.write('\n')
-    kk=int(kk)+1)
+    kk=int(kk)+1
     print('-'*40)
 
 
